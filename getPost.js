@@ -1,3 +1,4 @@
+//Carlos A. Hernandez
 var send =  {token:"ca15df8f74b55e0abf96b1d66b53f3ed", github:"https://github.com/carlosh07/code2040reg"} // data that I will send
 var url = "http://challenge.code2040.org/api/register" // where I am sending it to
 
